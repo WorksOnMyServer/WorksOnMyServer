@@ -47,9 +47,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🇪🇸 [Spanish Learning Bot](https://github.com/WorksOnMyServer/REPO_NAME) | Telegram bot that helps learn Spanish: daily words, grammar rules, quizzes and audio | Python · Telegram API · Ubuntu |
-| 💃 [TriodAnce](https://github.com/WorksOnMyServer/REPO_NAME) | Website for a dance & fitness studio with a booking form that sends requests straight to Telegram | HTML · CSS · JS · PHP · Nginx |
-| 🚛 [Crew Schedule](https://github.com/WorksOnMyServer/REPO_NAME) | Rotation schedule for truck crews (8/4 weeks), security-hardened and served via Nginx behind Cloudflare | Nginx · Cloudflare · JS |
+| 🇪🇸 [Spanish Learning Bot](https://github.com/WorksOnMyServer/-spanish_fro_ua) | Telegram bot that helps learn Spanish: daily words, grammar rules, quizzes and audio | Python · Telegram API · Ubuntu |
+| 💃 TriodAnce 🔒 | Website for a dance & fitness studio with a booking form that sends requests straight to Telegram | HTML · CSS · JS · PHP · Nginx |
+| 🚛 Crew Schedule 🔒 | Rotation schedule for truck crews (8/4 weeks), security-hardened and served via Nginx behind Cloudflare | Nginx · Cloudflare · JS |
 
 ## 📊 GitHub stats
 
