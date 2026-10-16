@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Globetrotter_UA"><img src="https://img.shields.io/badge/Telegram-Globetrotter__UA-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/AlguienDeUcrania"><img src="https://img.shields.io/badge/Telegram-AlguienDeUcrania-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <img src="https://komarev.com/ghpvc/?username=WorksOnMyServer&style=for-the-badge&color=2EA043&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -60,4 +60,4 @@
 
 ## 📫 How to reach me
 
-<a href="https://t.me/Globetrotter_UA"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/AlguienDeUcrania"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
